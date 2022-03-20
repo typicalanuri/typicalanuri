@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @typicalanuri AKA Jessica Nwachukwu
 - 👀 I’m interested in software development, integration, system designing, embedded system development, application development, working out, traveling, and learning new things!
-- 🌱 I’m currently learning unit testing and javascript
+- 🌱 I’m currently learning unit testing and Java
 - 💞️ I’m looking to collaborate on building an app
 - 📫 How to reach me via email @ jessica.nwachuk@yahoo.com
 
